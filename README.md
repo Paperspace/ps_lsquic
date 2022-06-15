@@ -2,6 +2,8 @@
 
 ## Building
 
+Don't forget to `git submodule update --init --recursive`
+
 ### Windows
 
 #### Preliminaries
