@@ -28,3 +28,15 @@
 #### **Build**
 
 - go to /path/to/ps_lsquic/scripts/ and run build-all.bat
+
+### MacOS
+
+#### Preliminaries
+
+- cmake
+- Necessary libs likely already on the system (perl, zlib). If not, install them.
+
+#### Build
+
+- go to /path/to/ps_lsquic/scripts and run ./build-all.sh
+
